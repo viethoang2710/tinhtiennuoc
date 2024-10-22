@@ -1,0 +1,7 @@
+D:\Programming\tinhtiennuoc\tinhtiennuoc\bin\Debug\tinhtiennuoc.exe.config
+D:\Programming\tinhtiennuoc\tinhtiennuoc\bin\Debug\tinhtiennuoc.exe
+D:\Programming\tinhtiennuoc\tinhtiennuoc\bin\Debug\tinhtiennuoc.pdb
+D:\Programming\tinhtiennuoc\tinhtiennuoc\obj\Debug\tinhtiennuoc.csproj.AssemblyReference.cache
+D:\Programming\tinhtiennuoc\tinhtiennuoc\obj\Debug\tinhtiennuoc.csproj.CoreCompileInputs.cache
+D:\Programming\tinhtiennuoc\tinhtiennuoc\obj\Debug\tinhtiennuoc.exe
+D:\Programming\tinhtiennuoc\tinhtiennuoc\obj\Debug\tinhtiennuoc.pdb
